@@ -1,0 +1,25 @@
+local Library = loadstring(Game:HttpGet("https://raw.githubusercontent.com/bloodball/-back-ups-for-libs/main/wizard"))()
+
+local PhantomForcesWindow = Library:NewWindow("FTN By Skiddo")
+
+
+
+
+local KillingCheats = PhantomForcesWindow:NewSection("Bring Coin")
+KillingCheats:CreateButton("Click Here", function()
+local place = game.PlaceId
+print(place)
+if place ==  15251574108 then
+wait("0.2")
+loadstring(game:HttpGet("https://paste-drop.com/raw/Ylv5IqTwfl"))()
+elseif  place == 16993174885 then
+wait("0.2")
+loadstring(game:HttpGet("https://paste-drop.com/raw/sHoPhaIows"))()
+elseif  place == 16993174885 then
+wait("0.2")
+loadstring(game:HttpGet("https://paste-drop.com/raw/MdqFyUEW6m"))()
+elseif  place == 16993174885 then
+wait("0.2")
+loadstring(game:HttpGet("https://paste-drop.com/raw/Y6hKLPbIk0"))()
+end
+end)
