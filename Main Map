@@ -1,0 +1,185 @@
+local Event = game:GetService("ReplicatedStorage").NoobiesGot
+Event:FireServer(A_1)
+local A_1 = "Ads Noobie"
+local Event = game:GetService("ReplicatedStorage").NoobiesGot
+Event:FireServer(A_1)
+local A_1 = "Adventurer Noobie"
+local Event = game:GetService("ReplicatedStorage").NoobiesGot
+Event:FireServer(A_1)
+local A_1 = "Bubble Noobie"
+local Event = game:GetService("ReplicatedStorage").NoobiesGot
+Event:FireServer(A_1)
+local A_1 = "Bucket Noobie"
+local Event = game:GetService("ReplicatedStorage").NoobiesGot
+Event:FireServer(A_1)
+local A_1 = "Bush Noobie"
+local Event = game:GetService("ReplicatedStorage").NoobiesGot
+Event:FireServer(A_1)
+local A_1 = "Cashier Noobie"
+local Event = game:GetService("ReplicatedStorage").NoobiesGot
+Event:FireServer(A_1)
+local A_1 = "Chillin Noobie"
+local Event = game:GetService("ReplicatedStorage").NoobiesGot
+Event:FireServer(A_1)
+local A_1 = "Cinema Noobie"
+local Event = game:GetService("ReplicatedStorage").NoobiesGot
+Event:FireServer(A_1)
+local A_1 = "Cleaning Noobie"
+local Event = game:GetService("ReplicatedStorage").NoobiesGot
+Event:FireServer(A_1)
+local A_1 = "Clothing Staff Noobie"
+local Event = game:GetService("ReplicatedStorage").NoobiesGot
+Event:FireServer(A_1)
+local A_1 = "Cloud Noobie"
+local Event = game:GetService("ReplicatedStorage").NoobiesGot
+Event:FireServer(A_1)
+local A_1 = "Code Breaker Noobie"
+local Event = game:GetService("ReplicatedStorage").NoobiesGot
+Event:FireServer(A_1)
+local A_1 = "Cool Noobie"
+local Event = game:GetService("ReplicatedStorage").NoobiesGot
+Event:FireServer(A_1)
+local A_1 = "Crate Noobie"
+local Event = game:GetService("ReplicatedStorage").NoobiesGot
+Event:FireServer(A_1)
+local A_1 = "Crystal Noobie"
+local Event = game:GetService("ReplicatedStorage").NoobiesGot
+Event:FireServer(A_1)
+local A_1 = "Dead Tree Noobie"
+local Event = game:GetService("ReplicatedStorage").NoobiesGot
+Event:FireServer(A_1)
+local A_1 = "Dirt Noobie"
+local Event = game:GetService("ReplicatedStorage").NoobiesGot
+Event:FireServer(A_1)
+local A_1 = "Farmer Noobie"
+local Event = game:GetService("ReplicatedStorage").NoobiesGot
+Event:FireServer(A_1)
+local A_1 = "Female Noobie"
+local Event = game:GetService("ReplicatedStorage").NoobiesGot
+Event:FireServer(A_1)
+local A_1 = "Fire Noobie"
+local Event = game:GetService("ReplicatedStorage").NoobiesGot
+Event:FireServer(A_1)
+local A_1 = "Fisherman Noobie"
+local Event = game:GetService("ReplicatedStorage").NoobiesGot
+Event:FireServer(A_1)
+local A_1 = "Food Inspector Noobie"
+local Event = game:GetService("ReplicatedStorage").NoobiesGot
+Event:FireServer(A_1)
+local A_1 = "Gangster Noobie"
+local Event = game:GetService("ReplicatedStorage").NoobiesGot
+Event:FireServer(A_1)
+local A_1 = "Glass Noobie"
+local Event = game:GetService("ReplicatedStorage").NoobiesGot
+Event:FireServer(A_1)
+local A_1 = "Glow Noobie"
+local Event = game:GetService("ReplicatedStorage").NoobiesGot
+Event:FireServer(A_1)
+local A_1 = "Grandma Noobie"
+local Event = game:GetService("ReplicatedStorage").NoobiesGot
+Event:FireServer(A_1)
+local A_1 = "Grandpa Noobie"
+local Event = game:GetService("ReplicatedStorage").NoobiesGot
+Event:FireServer(A_1)
+local A_1 = "Injured Noobie"
+local Event = game:GetService("ReplicatedStorage").NoobiesGot
+Event:FireServer(A_1)
+local A_1 = "Kitten Noobie"
+local Event = game:GetService("ReplicatedStorage").NoobiesGot
+Event:FireServer(A_1)
+local A_1 = "Knight Noobie"
+local Event = game:GetService("ReplicatedStorage").NoobiesGot
+Event:FireServer(A_1)
+local A_1 = "Lady Bug Noobie"
+local Event = game:GetService("ReplicatedStorage").NoobiesGot
+Event:FireServer(A_1)
+local A_1 = "Lily Pad Noobie"
+local Event = game:GetService("ReplicatedStorage").NoobiesGot
+Event:FireServer(A_1)
+local A_1 = "Lumberjack Noobie"
+local Event = game:GetService("ReplicatedStorage").NoobiesGot
+Event:FireServer(A_1)
+local A_1 = "Mama Noobie"
+local Event = game:GetService("ReplicatedStorage").NoobiesGot
+Event:FireServer(A_1)
+local A_1 = "Melted Noobie"
+local Event = game:GetService("ReplicatedStorage").NoobiesGot
+Event:FireServer(A_1)
+local A_1 = "Mimic Noobie"
+local Event = game:GetService("ReplicatedStorage").NoobiesGot
+Event:FireServer(A_1)
+local A_1 = "Miner Noobie"
+local Event = game:GetService("ReplicatedStorage").NoobiesGot
+Event:FireServer(A_1)
+local A_1 = "Mushroom Noobie"
+local Event = game:GetService("ReplicatedStorage").NoobiesGot
+Event:FireServer(A_1)
+local A_1 = "Neon Noobie"
+local Event = game:GetService("ReplicatedStorage").NoobiesGot
+Event:FireServer(A_1)
+local A_1 = "Normal Noobie"
+local Event = game:GetService("ReplicatedStorage").NoobiesGot
+Event:FireServer(A_1)
+local A_1 = "Painting Noobie"
+local Event = game:GetService("ReplicatedStorage").NoobiesGot
+Event:FireServer(A_1)
+local A_1 = "Papa Noobie"
+local Event = game:GetService("ReplicatedStorage").NoobiesGot
+Event:FireServer(A_1)
+local A_1 = "Piracy Noobie"
+local Event = game:GetService("ReplicatedStorage").NoobiesGot
+Event:FireServer(A_1)
+local A_1 = "Pixel Noobie"
+local Event = game:GetService("ReplicatedStorage").NoobiesGot
+Event:FireServer(A_1)
+local A_1 = "Sakura Noobie"
+local Event = game:GetService("ReplicatedStorage").NoobiesGot
+Event:FireServer(A_1)
+local A_1 = "Samurai Noobie"
+local Event = game:GetService("ReplicatedStorage").NoobiesGot
+Event:FireServer(A_1)
+local A_1 = "Sensei Noobie"
+local Event = game:GetService("ReplicatedStorage").NoobiesGot
+Event:FireServer(A_1)
+local A_1 = "Shadow Noobie"
+local Event = game:GetService("ReplicatedStorage").NoobiesGot
+Event:FireServer(A_1)
+local A_1 = "Shopping Noobie"
+local Event = game:GetService("ReplicatedStorage").NoobiesGot
+Event:FireServer(A_1)
+local A_1 = "Skeleton Noobie"
+local Event = game:GetService("ReplicatedStorage").NoobiesGot
+Event:FireServer(A_1)
+local A_1 = "Skibidi Noobie"
+local Event = game:GetService("ReplicatedStorage").NoobiesGot
+Event:FireServer(A_1)
+local A_1 = "Smartphone Noobie"
+local Event = game:GetService("ReplicatedStorage").NoobiesGot
+Event:FireServer(A_1)
+local A_1 = "Speaker Noobie"
+local Event = game:GetService("ReplicatedStorage").NoobiesGot
+Event:FireServer(A_1)
+local A_1 = "Spray Noobie"
+local Event = game:GetService("ReplicatedStorage").NoobiesGot
+Event:FireServer(A_1)
+local A_1 = "Stone Noobie"
+local Event = game:GetService("ReplicatedStorage").NoobiesGot
+Event:FireServer(A_1)
+local A_1 = "TV Noobie"
+local Event = game:GetService("ReplicatedStorage").NoobiesGot
+Event:FireServer(A_1)
+local A_1 = "Thief Noobie"
+local Event = game:GetService("ReplicatedStorage").NoobiesGot
+Event:FireServer(A_1)
+local A_1 = "Toy Noobie"
+local Event = game:GetService("ReplicatedStorage").NoobiesGot
+Event:FireServer(A_1)
+local A_1 = "Virus Noobie"
+local Event = game:GetService("ReplicatedStorage").NoobiesGot
+Event:FireServer(A_1)
+local A_1 = "Water Noobie"
+local Event = game:GetService("ReplicatedStorage").NoobiesGot
+Event:FireServer(A_1)
+local A_1 = "Zombie Noobie"
+local Event = game:GetService("ReplicatedStorage").NoobiesGot
+Event:FireServer(A_1)
