@@ -6,20 +6,25 @@ local KillingCheats = PhantomForcesWindow:NewSection("Tools Options")
 
 KillingCheats:CreateButton("Adonis", function()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Pixeluted/adoniscries/refs/heads/main/Source.lua", true))()
+wait("0.1")
 end)
 
 KillingCheats:CreateButton("IY", function()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source"))()
+wait("0.1")
 end)
 
 KillingCheats:CreateButton("Dex", function()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/REDzHUB/DEX-Explorer/main/Mobile.lua"))()
+wait("0.1")
 end)
 
 KillingCheats:CreateButton("Rspy", function()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/REDzHUB/RS/main/SimpleSpyMobile"))()
+wait("0.1")
 end)
 
 KillingCheats:CreateButton("Zspy", function()
 loadstring(game:HttpGet("https://pastebin.com/raw/p7vGLrRJ",true))();
+wait("0.1")
 end)
