@@ -8,7 +8,7 @@ KillingCheats:CreateButton("Adonis", function()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Pixeluted/adoniscries/refs/heads/main/Source.lua", true))()
 end)
 
-KillingCheatsCreateButton("IY", function()
+KillingCheats:CreateButton("IY", function()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source"))()
 end)
 
