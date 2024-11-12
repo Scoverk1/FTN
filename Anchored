@@ -1,0 +1,19 @@
+local Library = loadstring(Game:HttpGet("https://raw.githubusercontent.com/bloodball/-back-ups-for-libs/main/wizard"))()
+
+local PhantomForcesWindow = Library:NewWindow("Anchored By Skiddo")
+
+local KillingCheats = PhantomForcesWindow:NewSection("Anchored")
+
+KillingCheats:CreateButton("ON", function()
+local Player = game.Players.LocalPlayer
+local Char = Player.Character or Player.CharacterAdded:Wait()
+Char.Archivable = true
+Char:WaitForChild("HumanoidRootPart").Anchored = true
+end)
+
+KillingCheats:CreateButton("OFF", function()
+local Player = game.Players.LocalPlayer
+local Char = Player.Character or Player.CharacterAdded:Wait()
+Char.Archivable = true
+Char:WaitForChild("HumanoidRootPart").Anchored = false
+end)
