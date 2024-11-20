@@ -15,12 +15,12 @@ wait("0.1")
 end)
 
 KillingCheats:CreateButton("Dex", function()
-loadstring(game:HttpGet("https://raw.githubusercontent.com/REDzHUB/DEX-Explorer/main/Mobile.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Scoverk1/DEX-Explorer/main/Mobile.lua"))()
 wait("0.1")
 end)
 
 KillingCheats:CreateButton("Rspy", function()
-loadstring(game:HttpGet("https://raw.githubusercontent.com/REDzHUB/RS/main/SimpleSpyMobile"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Scoverk1/SimpleSpy/main/Mobile.lua"))()
 wait("0.1")
 end)
 
